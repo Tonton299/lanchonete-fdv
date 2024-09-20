@@ -1,3 +1,20 @@
 * {
   padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: orange;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+header .logo {
+  width: 100px;
+}
+header .lista {
+  display: flex;
+  justify-content: space-around;
+  width: 520px;
 }/*# sourceMappingURL=style.css.map */

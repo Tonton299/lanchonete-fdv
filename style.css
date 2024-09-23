@@ -17,4 +17,18 @@ header .lista {
   display: flex;
   justify-content: space-around;
   width: 520px;
+}
+
+figure img {
+  width: 200px;
+  margin: 20px;
+}
+
+main {
+  background-color: brown;
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
 }/*# sourceMappingURL=style.css.map */
